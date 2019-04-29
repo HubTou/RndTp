@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rndtp",
+  "name": "RaNDom TelePort mod",
+  "description": "A server-side mod for randomly teleporting a player into a specific area.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://lotr-minecraft-mod-exiles.fandom.com/wiki/RndTP_mod",
+  "updateUrl": "",
+  "authorList": ["HubTou"],
+  "credits": "The fellowship of the << It's a hARDA world >> server community for their friendship. Wicked1 for his teleporter extension.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

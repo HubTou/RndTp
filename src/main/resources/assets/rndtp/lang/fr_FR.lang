@@ -1,0 +1,3 @@
+commands.pretp.usage=Utilisation : /pretp [Joueur] IdDimension X Y Z
+commands.pretp.usage=Utilisation : /rndtp [Joueur] IdDimension TypeCoordonnées X1 Z1 X2 Z2
+commands.geotp.usage=Utilisation : /geotp [Joueur] Répertoire:Fichier [PositionVerticale]

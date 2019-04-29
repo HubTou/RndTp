@@ -1,0 +1,3 @@
+commands.pretp.usage=Usage: /pretp [Player] DimensionID X Y Z
+commands.rndtp.usage=Usage: /rndtp [Player] DimensionID CoordinatesType X1 Z1 X2 Z2
+commands.geotp.usage=Usage: /geotp [Player] Directory:File [VerticalPosition]
