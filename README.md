@@ -1,5 +1,5 @@
 # About RndTp
-a Minecraft Forge 1.7.10 server-side mod that you can use for randomly teleporting players into specific areas.
+A Minecraft Forge 1.7.10 server-side mod that you can use for randomly teleporting players into specific areas.
 
 It's designed for server operators to be used in server signs / pressure plates / command blocks in a server spawn in order to spread players on their chosen faction territory.
 
@@ -24,13 +24,26 @@ Please check the mod's wiki at https://lotr-minecraft-mod-exiles.fandom.com/wiki
 
 # Versions and changelog
 
-1.00 2019-04-29
+1.00    2019-04-29
 
         Initial public release
+
+# Caveats
+
+Developed with Java 1.8 (recompile if your server is running under a lower version) and tested only on Minecraft 1.7.10 / Forge  10.13.4.1614 with a Thermos server.
+
+# Limits & Known bugs
+
+* If you make a TopDown or AboveGround teleportation in an already generated chunk, you might end up on top of a tree (doesn't happen in ungenerated chunks as trees are generated later)
+
+* If you make a UnderGround or BottomUp teleportation, you risk getting some falling blocks (gravel, sand, etc.) or fluids (water, lava) on your head. Be sure to react quickly if you hear the sound of these events...
+
+* In some rare cases of AboveGround teleportation, you could end up under ground if the LOTR mod decides to build a structure just above you... 
 
 # Further development plans
 
 None apart from eventual bug corrections.
+
 Peculiarly I have no plan to port this to newer Minecraft versions as I will only use it for the LOTR mod.
 
 # License
