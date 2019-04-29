@@ -50,6 +50,10 @@ Peculiarly I have no plan to port this to newer Minecraft versions as I will onl
 
 This open source software is distributed under a BSD license (see the "License" file for details).
 
+# Credits
+
+This mod includes a snippet of code from Wicked1 (http://www.minecraftforge.net/forum/profile/26013-wicked1/ copied from http://www.minecraftforge.net/forum/topic/14491-teleporting-a-player-to-a-new-dimension/?tab=comments#comment-89141
+
 # Author
 
 Hubert Tournier
