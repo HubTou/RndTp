@@ -1,3 +1,5 @@
+:warning: Due to [Microsoft inept policy concerning Minecraft accounts](https://help.minecraft.net/hc/en-us/articles/19615552270221) I no longer have access to the game and thus won't maintain this software anymore
+
 # About RndTp
 A Minecraft Forge 1.7.10 server-side mod that you can use for randomly teleporting players into specific areas.
 
